@@ -1,0 +1,16 @@
+/*Global*/
+html, /*{
+		
+	margin: auto;
+	height:auto;
+	width:auto;
+}*/
+body{
+/*	margin: auto;
+	max-height:auto;
+	width: auto; */
+
+	margin:0;
+	padding:0;
+	height:100%;
+}

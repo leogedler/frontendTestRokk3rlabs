@@ -1,0 +1,166 @@
+/* app css stylesheet */
+
+
+body {
+    background-color: #f5f5fa;
+}
+
+.Rectangle-2189-Copy {
+  width: 264px;
+  height: 60px;
+  background-color: #1e2025;
+}
+
+.R3L_Logo_Application_02 {
+  width: 169px;
+  height: 20px;
+  object-fit: contain;
+  padding-top: 20px;
+  padding-left: 48px;
+}
+
+.Navigate {
+  width: 75px;
+  height: 19px;
+  padding-left: 20px;
+  font-family: ProximaNova;
+  font-size: 16px;
+  font-weight: normal;
+  color: #575a5f;
+}
+
+.Line {
+  width: 215px;
+  height: 2px;
+  margin-left: 20px;
+  border-bottom: solid 2px #373b42;
+}
+
+.top {
+  position: fixed;
+  z-index: 120;
+  top: 0px;
+  left: 0px;
+  height:61px;
+  width:100%;
+  background-color: #2f323a;
+}
+
+
+
+.left_menu {
+  padding-left: 0px;
+  top: 0px;
+  z-index: 0;
+  position: fixed;
+  padding-top: 90px;
+  left: 0px;
+  width: 264px;
+  height: 100%;
+  background: #ECEFF1;
+  background-color: #2f323a;
+}
+
+
+.left_menu ul {
+  list-style:none;
+   white-space: nowrap;
+}
+
+.left_menu li {
+
+    text-indent: 20px;
+    line-height: 40px;
+    text-decoration: none;
+}
+
+.left_menu li a {
+    display: block;
+    text-decoration: none;
+    color: #f5f5fa;
+}
+
+.left_menu li a:hover {
+    text-decoration: none;
+    color: #f5f5fa;
+    background: #1e2025;
+}
+
+.left_menu li a:active,
+.left_menu li a:focus {
+    text-decoration: none;
+}
+
+.Navigate {
+  width: 75px;
+  height: 19px;
+  font-family: ProximaNova;
+  font-size: 16px;
+  font-weight: normal;
+  color: #575a5f;
+}
+
+.view1 {
+  margin-left: 500px;
+  margin-top: 90px;
+}
+
+.view2 {
+  margin-left: 300px;
+  margin-top: 90px;
+}
+
+
+.calle {
+  padding: 50px;
+  min-height: 100px;
+  width: 100%;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7ed;
+  margin: 10px;
+}
+
+.nombreCalle {
+  color: #1e2025;
+}
+
+.calleData {
+  color: #2f323a;
+}
+
+.barChart {
+
+  padding: 50px;
+  height: 400px;
+  width: 600px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7ed;
+
+}
+
+.lineChart {
+
+  padding: 50px;
+  height: 400px;
+  width: 600px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7ed;
+  margin-top: 20px;
+
+}
+
+.pieChart {
+  padding: 50px;
+  height: 400px;
+  width: 600px;
+  border-radius: 4px;
+  background-color: #ffffff;
+  border: solid 1px #e7e7ed;
+  margin-top: 20px;
+}
+
+
+
