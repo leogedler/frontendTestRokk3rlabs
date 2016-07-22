@@ -1,7 +1,7 @@
 # Rokker labs test
 
 
-Para instalarlo localamente se necesita tener instalado localmente node.js y npm.
+Para correr la aplicación con las siguientes instrucciones se necesita tener instalado localmente node.js y npm en el sistema.
 
 
 Instruciones para la instalacion:
