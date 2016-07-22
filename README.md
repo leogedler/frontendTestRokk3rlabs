@@ -1,14 +1,14 @@
 # Rokker labs test
 
 
-Para instalarlo localamente se necesita tener instalado localmanet node.js y npm.
+Para instalarlo localamente se necesita tener instalado localmente node.js y npm.
 
 
 Instruciones para la instalacion:
 
 
 
-Descargar el repositorio, navegar al mismo a traves de la terminal y usar el comando: 
+Descargar el repositorio, navegar al mismo a traves de la terminal, una vez en el directorio usar el comando: 
 
 ```
 npm install
